@@ -14,7 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
                 .padding(.horizontal, 20)
-            Text("Hello, world!!")
+            Text("Woooooo~")
                 .padding(.vertical, 20)
         }
         .padding()
